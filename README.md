@@ -1,9 +1,3 @@
-# STEP
-
-1. `go get https://github.com/scalablescripts/posts-microservices-frontend.git`
-2. `go get go get -u gorm.io/gorm`
-3. `go get -u gorm.io/driver/mysql`
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
